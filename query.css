@@ -2,6 +2,10 @@
   .middle-div {
     width: 90%;
   }
+  #map {
+    width: 100vw;
+    height: 100vh;
+  }
 }
 
 @media (max-width: 725px) {
